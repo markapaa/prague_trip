@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Πράγα 4 - 8 Δεκεμβρίου</title>
+    <style>
+        body {
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            background-color: #f4f7f6;
+            color: #333;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .header {
+            text-align: center;
+            background: #2c3e50;
+            color: #ecf0f1;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        .header h1 { margin: 0 0 10px 0; }
+        .header p { margin: 5px 0; font-size: 1.1em; }
+        .day-card {
+            background: #fff;
+            padding: 20px 25px;
+            border-radius: 10px;
+            margin-bottom: 25px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+            border-left: 6px solid #e74c3c;
+        }
+        .day-title {
+            color: #e74c3c;
+            margin-top: 0;
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+        }
+        ul { padding-left: 20px; }
+        li { margin-bottom: 12px; }
+        strong { color: #2c3e50; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="header">
+        <h1>✈️ Πράγα 4 - 8 Δεκεμβρίου</h1>
+        <p><strong>📍 Βάση:</strong> Zborovská 14</p>
+        <p><strong>🎯 Στόχος:</strong> Ιστορία, Επιστήμη, Τέχνες, Μεσαιωνικά Vibes & Local Εμπειρίες</p>
+    </div>
+
+    <div class="day-card">
+        <h2 class="day-title">📅 Day 1: Παρασκευή 4/12 – Η Καρδιά της Ιστορίας</h2>
+        <ul>
+            <li><strong>13:00 – 14:30:</strong> Άφιξη στο αεροδρόμιο, μετάβαση στο διαμέρισμα και τακτοποίηση.</li>
+            <li><strong>15:00 – 17:30:</strong> Βόλτα στην Παλιά Πόλη (Staré Město).
+                <ul>
+                    <li><strong>Αστρονομικό Ρολόι (Orloj):</strong> Ηλικίας 600 ετών. Κάθε ακριβώς της ώρας εμφανίζονται οι 12 Απόστολοι.</li>
+                    <li><strong>Church of Our Lady before Týn:</strong> Γοτθική εκκλησία με το παλαιότερο εκκλησιαστικό όργανο (1673).</li>
+                    <li><strong>Αγορά Havel:</strong> Παραδοσιακή αγορά με ιστορία από το 1200.</li>
+                </ul>
+            </li>
+            <li><strong>18:00 – 20:00:</strong> Χριστουγεννιάτικες Αγορές της Πλατείας Παλαιάς Πόλης (ζεστό κρασί και Trdelník).</li>
+            <li><strong>20:00:</strong> Δείπνο στη <strong>Medieval Tavern “U Pavouka”</strong> (Απαιτείται κράτηση). Μεσαιωνικό φαγοπότι.</li>
+        </ul>
+    </div>
+
+    <div class="day-card">
+        <h2 class="day-title">📅 Day 2: Σάββατο 5/12 – Το Κάστρο & Η Νύχτα του Mikuláš</h2>
+        <ul>
+            <li><strong>09:30 – 13:30:</strong> <strong>Κάστρο της Πράγας (Pražský hrad)</strong>. Επίσκεψη στον Καθεδρικό του Αγίου Βίτου και το Χρυσό Σοκάκι.</li>
+            <li><strong>13:30 – 15:30:</strong> Κατηφορίζουμε στη Malá Strana, στάση στο <strong>Μουσείο Franz Kafka</strong>.</li>
+            <li><strong>16:00 – 18:00:</strong> Γέφυρα του Καρόλου (Charles Bridge) στο ηλιοβασίλεμα.</li>
+            <li><strong>18:00+:</strong> <strong>Η Γιορτή του Mikuláš!</strong> Η πόλη γεμίζει με τον Άγιο Νικόλαο, Αγγέλους και Δαίμονες (Krampus).</li>
+            <li><strong>Βράδυ:</strong> Δείπνο στο <strong>U Krále Brabantského</strong> (παλιό στέκι αλχημιστών).</li>
+        </ul>
+    </div>
+
+    <div class="day-card">
+        <h2 class="day-title">📅 Day 3: Κυριακή 6/12 – Επιστήμη & Αστρονομία</h2>
+        <ul>
+            <li><strong>10:00 – 13:30:</strong> <strong>Εθνικό Τεχνικό Μουσείο</strong>. Εκθέσεις αστρονομίας, μηχανικής και ιστορικών οχημάτων.</li>
+            <li><strong>14:30 – 16:00:</strong> <strong>Klementinum (Εθνική Βιβλιοθήκη)</strong>. Μπαρόκ βιβλιοθήκη του 1727 και Meridian Hall με αστρονομικά όργανα.</li>
+            <li><strong>16:30 – 18:30:</strong> <strong>Εθνικό Μουσείο</strong> (πλατεία Wenceslas), εστιάζει στη φυσική ιστορία.</li>
+            <li><strong>Βράδυ:</strong> Χριστουγεννιάτικη αγορά της <strong>Πλατείας Ειρήνης (Náměstí Míru)</strong> (λιγότερο τουριστική).</li>
+        </ul>
+    </div>
+
+    <div class="day-card">
+        <h2 class="day-title">📅 Day 4: Δευτέρα 7/12 – Μυστικισμός & Κουλτούρα</h2>
+        <ul>
+            <li><strong>10:00 – 13:30:</strong> <strong>Εβραϊκή Συνοικία (Josefov) & Εβραϊκό Μουσείο</strong>. Παλαιά-Νέα Συναγωγή (ο θρύλος του Γκόλεμ) και το παλιό νεκροταφείο.</li>
+            <li><strong>14:30 – 16:30:</strong> <strong>Κάστρο Vyšehrad</strong>. Πάνω στον βράχο με τρομερή θέα, το πάνθεον των Τσέχων επιστημόνων.</li>
+            <li><strong>17:00:</strong> Καφές στο <strong>Café Louvre</strong> (στέκι του Αϊνστάιν και του Κάφκα).</li>
+            <li><strong>Βράδυ:</strong> Δείπνο σε αυθεντική pub (Hospoda) για Goulash και Pilsner.</li>
+        </ul>
+    </div>
+
+    <div class="day-card">
+        <h2 class="day-title">📅 Day 5: Τρίτη 8/12 – Αρχιτεκτονική & Επιστροφή</h2>
+        <ul>
+            <li><strong>09:30 – 11:30:</strong> Βόλτα δίπλα στο σπίτι. Φωτογραφίες στο <strong>Dancing House</strong> (Κτίριο που Χορεύει).</li>
+            <li><strong>11:30 – 12:00:</strong> Επιστροφή στο διαμέρισμα για βαλίτσες.</li>
+            <li><strong>12:00:</strong> Αναχώρηση για αεροδρόμιο (Πτήση στις 14:00).</li>
+        </ul>
+    </div>
+</div>
+
+</body>
+</html>
